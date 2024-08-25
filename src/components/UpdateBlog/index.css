@@ -1,0 +1,27 @@
+.update-blogs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+  background-image: url("https://wallpapercave.com/wp/wp3291224.jpg");
+  background-size: cover;
+  color: #ffffff;
+  font-family: Serif Bree;
+  padding: 10px;
+}
+
+.img {
+  height: 50vh;
+}
+
+.blog-btn {
+  font-family: "Roboto";
+  font-weight: 600;
+  font-size: 15px;
+  padding: 8px 16px;
+  color: white;
+  background-color: #0967d2;
+  border: none;
+  border-radius: 4px;
+  margin-left: 14px;
+}

@@ -1,0 +1,15 @@
+.delete-blogs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+  background-image: url("https://wonderfulengineering.com/wp-content/uploads/2019/07/01.-Microsoft-Open-AI-Are-Developing-Artificial-General-Intelligence-1600x900.jpg");
+  background-size: cover;
+  color: #ffffff;
+  font-family: Serif Bree;
+  padding: 10px;
+}
+
+.img {
+  height: 50vh;
+}
